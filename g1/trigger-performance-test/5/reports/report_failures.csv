@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+GET,/v3/profile,HTTPError('401 Client Error: Unauthorized for url: /v3/profile'),1
