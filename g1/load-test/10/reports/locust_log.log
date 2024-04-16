@@ -1,0 +1,103 @@
+LOG_FILE
+[2024-04-16 13:00:50,057] fv-az967-538/WARNING/locust.main: Python 3.8 support is deprecated and will be removed soon
+[2024-04-16 13:00:50,058] fv-az967-538/INFO/locust.main: Run time limit set to 30 seconds
+[2024-04-16 13:00:50,058] fv-az967-538/INFO/locust.main: Starting Locust 2.24.1
+[2024-04-16 13:00:50,059] fv-az967-538/INFO/locust.runners: Ramping to 10 users at a rate of 1.00 per second
+[2024-04-16 13:00:51,425] fv-az967-538/INFO/root: /v3/login 	| <Response [200]>
+[2024-04-16 13:00:51,698] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:00:51,912] fv-az967-538/INFO/root: /v3/login 	| <Response [200]>
+[2024-04-16 13:00:52,212] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:00:52,578] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:00:53,119] fv-az967-538/INFO/root: /v3/login 	| <Response [200]>
+[2024-04-16 13:00:53,392] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:00:53,840] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:00:53,940] fv-az967-538/INFO/root: /v3/login 	| <Response [200]>
+[2024-04-16 13:00:53,980] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:00:54,046] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:00:54,222] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:00:54,290] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:00:54,936] fv-az967-538/INFO/root: /v3/login 	| <Response [200]>
+[2024-04-16 13:00:55,219] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:00:55,756] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:00:55,928] fv-az967-538/INFO/root: /v3/login 	| <Response [200]>
+[2024-04-16 13:00:56,203] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:00:56,705] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:00:56,711] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:00:56,950] fv-az967-538/INFO/root: /v3/login 	| <Response [200]>
+[2024-04-16 13:00:57,013] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:00:57,238] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:00:57,936] fv-az967-538/INFO/root: /v3/login 	| <Response [200]>
+[2024-04-16 13:00:58,205] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:00:58,793] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:00:58,937] fv-az967-538/INFO/root: /v3/login 	| <Response [200]>
+[2024-04-16 13:00:59,073] fv-az967-538/INFO/locust.runners: All users spawned: {"LocustFile": 10} (10 total users)
+[2024-04-16 13:00:59,117] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:00:59,284] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:00:59,496] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:00,233] fv-az967-538/INFO/root: /v3/login 	| <Response [200]>
+[2024-04-16 13:01:00,316] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:00,395] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:00,428] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:00,537] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:00,647] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:00,741] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:01,824] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:02,007] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:02,493] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:02,686] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:02,888] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:03,012] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:03,329] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:03,373] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:03,758] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:04,722] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:04,755] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:04,774] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:05,175] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:05,437] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:06,047] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:06,365] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:06,574] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:06,756] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:06,928] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:07,216] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:07,413] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:07,427] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:08,420] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:08,552] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:08,830] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:08,903] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:09,191] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:10,040] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:10,142] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:10,243] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:10,329] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:10,526] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:10,816] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:12,322] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:12,480] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:12,645] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:12,816] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:12,904] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:13,324] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:13,430] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:14,002] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:15,076] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:15,356] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:15,380] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:16,172] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:16,334] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:16,564] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:16,736] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:17,163] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:17,382] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:17,890] fv-az967-538/INFO/root: /v3/profile 	| <Response [200]>
+[2024-04-16 13:01:18,100] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:18,349] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:18,616] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:18,819] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:19,510] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:19,872] fv-az967-538/INFO/root: /v3/balance 	| <Response [200]>
+[2024-04-16 13:01:19,909] fv-az967-538/INFO/locust.main: --run-time limit reached, shutting down
+[2024-04-16 13:01:19,943] fv-az967-538/INFO/locust.main: writing html report to file: reports/report.html
+[2024-04-16 13:01:19,945] fv-az967-538/INFO/locust.main: Shutting down (exit code 0)
