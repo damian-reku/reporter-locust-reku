@@ -1,2 +1,0 @@
-Method,Name,Error,Occurrences
-POST,/v3/balance,HTTPError('401 Client Error: Unauthorized for url: /v3/balance'),1
